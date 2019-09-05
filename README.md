@@ -2,4 +2,4 @@
 1st of the year
 
 Projeto dos alunos Jorge e Marcos.
-(primeira vers„o)
+(primeira vers√£o)
