@@ -3,6 +3,7 @@
 
 Projeto dos alunos Jorge e Marcos.  
 Ambas as classes estão no arquivo "classes.py".  
+Na pasta "source", estão os arquivos dos dados usados para o projeto.
 Os atributos estão especificados no arquivo "atributos.md"  
 A classe "populacao" utiliza a classe "pessoa", como é mostrado:
   
