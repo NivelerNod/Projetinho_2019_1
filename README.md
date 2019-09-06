@@ -1,9 +1,9 @@
-# Projeto_2019_1
+﻿# Projeto_2019_1
 1st of the year
 
 Projeto dos alunos Jorge e Marcos.  
 Ambas as classes estão no arquivo "classes.py".  
-Os atributos estão especificados em no arquivo "atributos.md"  
+Os atributos estão especificados no arquivo "atributos.md"  
 A classe "populacao" utiliza a classe "pessoa", como é mostrado:
   
   
@@ -29,7 +29,7 @@ class populacao:
 ```
   
   
-E a classe pessoa possui a seguinte estrutura:
+E a classe "pessoa" possui a seguinte estrutura:
   
   
 ```python
