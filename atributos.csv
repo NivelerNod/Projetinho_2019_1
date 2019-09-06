@@ -1,0 +1,14 @@
+rendimento_domiciliar_mensal,0.138,0~1=0.023,1~2=0.065,2~3=0.108,3~5=0.244,5~10=0.348,10~20=0.126,20~=0.031,naodeclarado=0.055
+rendimento_domiciliar_mensal_per_capita,0.119,0~1/2=0.044,1/2~1=0.185,1~2,=.359,2~3=0.187,3~5=0.116,5~=0.053,naodeclarado=0.055
+rede_de_ensino,0.0675,publica=0.22,particular=0.78
+modalidade,0.067,presencial=0.822,adistancia=0.178
+turno,0.1205,manha=0.123,tarde=0.05,noite=0.77,doisturnos=0.057
+dificuldade_financeira,0.152,sim=0.057,nao=0.943
+dificuldade_acesso_ao_local,0.166,sim=0.053,nao=0.947
+dificuldade_cumprir_horário,0.162,sim=0.051,nao=0.949
+falta_tempo_p_estudar,0.213,sim=0.031,nao=0.969
+outra_dificuldade,0.333,sim=0.012,nao=0.988
+regiao,0.0886,norte=
+sexo,0.067,homem=0.562,mulher=0.438
+cor,0.0385,branca=0.57,preta_ou_parda=0.43
+situacao_de_ocupacao,0.0445,ocupado=0.759,desocupado=0.241
